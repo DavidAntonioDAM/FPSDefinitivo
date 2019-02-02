@@ -4,6 +4,8 @@ namespace Nokobot.Assets.Crossbow
 {
     public class CrossbowShoot : MonoBehaviour
     {
+        public AudioClip shoot;
+        private AudioSource audioSource;
         public GameObject arrowPrefab;
         public Transform arrowLocation;
 
@@ -11,6 +13,7 @@ namespace Nokobot.Assets.Crossbow
 
         void Start()
         {
+            audioSource = GetComponent<AudioSource>();
             if (arrowLocation == null)
                 arrowLocation = transform;
         }
@@ -19,9 +22,9 @@ namespace Nokobot.Assets.Crossbow
         {
             if(Input.GetButtonDown("Fire1"))
             {
+                audioSource.PlayOneShot(shoot);
                 Instantiate(arrowPrefab, arrowLocation.position, arrowLocation.rotation).GetComponent<Rigidbody>().AddRelativeForce(Vector3.forward * shotPower);
 
-                Destroy(arrowPrefab, 3);
             }
         }
     }
