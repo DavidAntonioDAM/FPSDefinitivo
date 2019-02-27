@@ -1,0 +1,267 @@
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEditor.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\nunit.framework.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ChrisÜ\Desktop\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\nunit.framework.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEditor.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WebModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Cecil.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.DataContract.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEditor.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WebModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\nunit.framework.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Personal\Proyectos Unity\FPSDefinitivoFinal\obj\Debug\Assembly-CSharp-firstpass.pdb

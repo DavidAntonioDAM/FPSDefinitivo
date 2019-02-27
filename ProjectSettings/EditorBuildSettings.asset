@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Portada.unity
+    guid: 607801c261ee94a489305e6f9665231f
+  - enabled: 1
+    path: Assets/MainScene.unity
+    guid: fbbba9b7b12f719418df3e05a6b65018
+  - enabled: 1
+    path: Assets/GameWin.unity
+    guid: e853b3a6bdbf3ae4e9d931dcb8e8d614
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: 5821c49d9482d004ebd8a8ce2165c194
+  - enabled: 1
+    path: Assets/Boss-Scene.unity
+    guid: 9936ca7d32d1fbb4bb92434506ac1b57
