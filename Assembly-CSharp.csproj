@@ -52,8 +52,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_GameObjects\HealthBar\Scripts\HealthBar.cs" />
-     <Compile Include="Assets\_GameObjects\Potion\Low Polygon Potions Pack\Other Assets\Scripts\CreatePrefabFromSelected.cs" />
-     <Compile Include="Assets\_GameObjects\Potion\Low Polygon Potions Pack\Other Assets\Scripts\Potion.cs" />
      <Compile Include="Assets\_GameObjects\Scripts\Apuntar.cs" />
      <Compile Include="Assets\_GameObjects\Scripts\Arma.cs" />
      <Compile Include="Assets\_GameObjects\Scripts\Boss.cs" />

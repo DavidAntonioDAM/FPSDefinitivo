@@ -22,6 +22,6 @@ public class Municion : MonoBehaviour {
         textoCarcaj.text = arma.flechasEnMochila + "/" + arma.maximoDeFlechas;
         */
         textoCarcaj.text = Cargador.municion + "";
-        textoMunicion.text = TusMuertos.muertos + "/ 50"; // ESTO ES EL CONTADOR DE TUS MUERTOS BRO
+        textoMunicion.text = TusMuertos.muertos + "/ 10"; // ESTO ES EL CONTADOR DE TUS MUERTOS BRO
     }
 }
